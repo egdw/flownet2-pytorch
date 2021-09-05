@@ -1,3 +1,5 @@
+# fixed: This project can work under cuda 11.1 and pytorch>=1.7
+
 # flownet2-pytorch 
 
 Pytorch implementation of [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925). 
@@ -17,7 +19,7 @@ A batchnorm version for each network is also available.
  - **FlowNet2S**
  - **FlowNet2C**
  - **FlowNet2CS**
- - **FlowNet2CSS**
+ - **FlowNet2CSS**version
  - **FlowNet2SD**
  - **FlowNet2**
 
